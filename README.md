@@ -6,7 +6,7 @@
 
 ## Register.hdl
 
-<img src = "/REGISTER.scr.png/">
+<img src = "/REGISTER.SCR.png/">
 
 ## Ram8.hdl
 
